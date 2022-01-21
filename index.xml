@@ -5,16 +5,14 @@
     <link>https://guibmolina.github.io/</link>
     <description>Recent content on Guilherme Molina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jan 2022 07:52:11 -0300</lastBuildDate><atom:link href="https://guibmolina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 08:29:08 -0300</lastBuildDate><atom:link href="https://guibmolina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Volumes</title>
-      <link>https://guibmolina.github.io/posts/volumes/</link>
-      <pubDate>Thu, 20 Jan 2022 07:52:11 -0300</pubDate>
+      <title>Volumes Com Docker</title>
+      <link>https://guibmolina.github.io/posts/volumes-com-docker/</link>
+      <pubDate>Thu, 20 Jan 2022 08:29:08 -0300</pubDate>
       
-      <guid>https://guibmolina.github.io/posts/volumes/</guid>
-      <description>**Teste Post
-teste test test</description>
+      <guid>https://guibmolina.github.io/posts/volumes-com-docker/</guid>
+      <description>Criando Volumes no Docker</description>
     </item>
     
   </channel>
