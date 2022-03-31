@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>loadbalancer on Guilherme Molina</title>
+    <link>https://guibmolina.github.io/tags/loadbalancer/</link>
+    <description>Recent content in loadbalancer on Guilherme Molina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 31 Mar 2022 08:51:58 -0300</lastBuildDate><atom:link href="https://guibmolina.github.io/tags/loadbalancer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criando um Load Balancer com Nginx</title>
+      <link>https://guibmolina.github.io/posts/criando-um-load-balancer/</link>
+      <pubDate>Thu, 31 Mar 2022 08:51:58 -0300</pubDate>
+      
+      <guid>https://guibmolina.github.io/posts/criando-um-load-balancer/</guid>
+      <description>Criando um Load Balancer simples</description>
+    </item>
+    
+  </channel>
+</rss>
